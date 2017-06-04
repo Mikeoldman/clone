@@ -1,3 +1,5 @@
+ghfhfghgfhfghfghf
+fghfghfghfhf
 
 
 gggnew
@@ -6,8 +8,11 @@ Insert New sring
 fdgdfgd
 
 and delete old string
+<<<<<<< HEAD
 
 fghfghfpoipio
 p
 iopiopiopi
 iopiopiop
+=======
+>>>>>>> d54067a224cf85d4536b6d7afb93fa88d2bfe016
